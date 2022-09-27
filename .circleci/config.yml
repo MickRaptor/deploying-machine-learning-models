@@ -63,14 +63,13 @@ jobs:
           command: |
             tox -e fetch_data
       - run:
-          name: Publish model to Gemfury
-          command: |
-            tox -e publish_model
-      - run:
           name: Test the model
           command: |
             tox
-      
+      - run:
+          name: Publish model to Gemfury
+          command: |
+            tox -e publish_model
 
 
   section_08_deploy_app_container_in_heroku:
