@@ -3,4 +3,4 @@ Accompanying repo for the online course Deployment of Machine Learning Models.
 
 For the documentation, visit the [course on Udemy](https://www.udemy.com/deployment-of-machine-learning-models/?couponCode=TIDREPO).
 
-My fake update uuu package GemFury with circleci and heroku - safe-caverns-09890
+Deploiement sur Herou comme package créé sur GemFury - safe-caverns-09890
